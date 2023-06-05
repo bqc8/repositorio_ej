@@ -3,10 +3,13 @@ def suma(x,y):
     return x+y
 
 #función resta (Brandon)
+def resta(x,y):
+    return x-y
 
 #función multiplicación (Sapa)
-def resta
+def mult(x,y):
+    return x*y
 
 #función división (Rata)
-
-45
+def div(x,y):
+    return x/y
