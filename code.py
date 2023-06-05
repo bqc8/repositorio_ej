@@ -5,7 +5,8 @@ def suma(x,y):
 #función resta (Brandon)
 
 #función multiplicación (Sapa)
-def resta
+def mult(x,y):
+    return x*y
 
 #función división (Rata)
 
