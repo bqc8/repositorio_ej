@@ -8,5 +8,5 @@ def suma(x,y):
 def resta
 
 #función división (Rata)
-
-45
+def div(x,y):
+    return x/y
