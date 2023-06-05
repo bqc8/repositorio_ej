@@ -1,6 +1,6 @@
 #función suma (Pedro)
 def suma(x,y):
-    return
+    return x+y
 
 #función resta (Brandon)
 
